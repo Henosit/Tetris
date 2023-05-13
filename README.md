@@ -1,5 +1,4 @@
-![תמונה של WhatsApp‏ 2023-05-13 בשעה 18 11 10](https://github.com/Henosit/Tetris/assets/104066064/e70a07f4-d514-40b9-859b-46bf63526f02)
-
+![image](https://github.com/Henosit/Tetris/assets/104066064/5b985cdf-1e3e-446f-9631-ddc53b5ed5ab)
 # Projects-i-made-on-visual-studio
 # Tetris
 Tetris is a Windows Forms C# Project of the "Tetris" Game, with a few additions: diagonal shape, "Like" shape, and various shapes and colors.

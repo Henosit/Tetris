@@ -1,7 +1,11 @@
 ![image](https://github.com/Henosit/Tetris/assets/104066064/5b985cdf-1e3e-446f-9631-ddc53b5ed5ab)
-# Projects-i-made-on-visual-studio
-# Tetris
+# Tetris Game in Windows Forms
 Tetris is a Windows Forms C# Project of the "Tetris" Game, with a few additions: diagonal shape, "Like" shape, and various shapes and colors.
+
+## Game Video
+
+https://github.com/Henosit/Tetris/assets/104066064/37dc2b62-d1b4-4622-b8e2-b38db74e025a
+
 
 ## Installation
 
